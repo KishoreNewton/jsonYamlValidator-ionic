@@ -1,0 +1,7 @@
+{
+  "name": "jsonyaml",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
